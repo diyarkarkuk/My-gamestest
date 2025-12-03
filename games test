@@ -1,0 +1,28 @@
+3d-car-modelling-project/
+│
+├── 📁 01_references/        # وێنە ڕێنمایەکان و پلانەکان
+│   ├── front.jpg
+│   ├── side.jpg
+│   ├── top.jpg
+│   └── blueprints.pdf
+│
+├── 📁 02_blender_project/   # فایلە سەرچاوەییەکانی بلێندەر
+│   ├── car_blocking.blend
+│   ├── car_modeling.blend
+│   ├── car_final.blend
+│   └── 📁 textures/         # تێکستچەرەکان (ئەگەر هەبوون)
+│
+├── 📁 03_exports/           # فایلە دەرچووەکان بۆ پیشاندان
+│   ├── renders/
+│   │   ├── render_front.png
+│   │   └── render_360.gif
+│   └── models/
+│       ├── car_model.fbx
+│       └── car_model.obj
+│
+├── 📁 04_documentation/     # تێبینیەکان و خاڵە گرنگەکان
+│   └── notes.md             # تێبینیەکانت لەبارەی ئەرکەکان
+│
+├── 📄 README.md             # پەڕەی سەرەکی وڵامەکە (زۆر گرنگە!)
+├── 📄 LICENSE               (ئەگەر ویستت بەڵگەنامەی مافی چاپکردنت هەبێت)
+└── 📄 .gitignore            (بۆ ڕێگەگرتن لە ئەپڵۆدکردنی فایلە زێڕینەکان وەک `.blend1`)
